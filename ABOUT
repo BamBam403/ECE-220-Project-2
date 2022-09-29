@@ -1,0 +1,4 @@
+implements functions used to optimize a floorplan
+
+details including horizontal/vertial cut and values of each module that are relevant to a 
+floorplan are stored in as a binary tree which is built and accessed by pointers
